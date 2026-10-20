@@ -17,6 +17,18 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Flashback (proposal)',
+        items: [
+          { text: 'Overview', link: '/flashback/' },
+          { text: 'Repository analysis', link: '/flashback/repository-analysis' },
+          { text: 'Architecture', link: '/flashback/architecture' },
+          { text: 'Windows paths', link: '/flashback/windows-paths' },
+          { text: 'Threat model', link: '/flashback/threat-model' },
+          { text: 'Plan and tests', link: '/flashback/implementation-plan' },
+          { text: 'Upstream candidates', link: '/flashback/upstream-prs' }
+        ]
+      },
+      {
         text: 'Introduction',
         items: [
           { text: 'Getting Started', link: '/introduction/getting-started' },

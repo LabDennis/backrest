@@ -1,3 +1,5 @@
+> **Flashback proposal:** This fork is planning an enterprise self-service file-version portal. See the [Phase 0 design](docs/src/flashback/index.md). Enterprise login, Windows ACL enforcement, the employee portal and Explorer integration are not implemented yet.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./webui/assets/logo.svg" width="400px">
